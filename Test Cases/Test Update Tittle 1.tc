@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Working Flow test for update Tittle min value 1</description>
+   <name>Test Update Tittle 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f84bc8df-ecbb-42e9-b922-5fc8ce654e1d</testCaseGuid>
+</TestCaseEntity>
